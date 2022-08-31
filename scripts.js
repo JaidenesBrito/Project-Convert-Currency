@@ -3,7 +3,7 @@ const select = document.getElementById('moeda-select')
 
 const dolar = 5.2
 const euro = 5.9
-const bitcoin = 0.0000099
+const bitcoin = 0.0000096
 
 const converterValor = () => {
     const input = document.getElementById('input-real').value

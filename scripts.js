@@ -8,7 +8,7 @@ const converterValor = async () => {
     const valorReal = document.getElementById('valor-real')
     const valortexto = document.getElementById('valor-texto')
 
-    const data = await fetch("http://economia.awesomeapi.com.br/json/last/USD-BRL,EUR-BRL,BTC-BRL").then(Response => Response.json())
+    const data = await fetch("https://economia.awesomeapi.com.br/json/last/USD-BRL,EUR-BRL,BTC-BRL").then(Response => Response.json())
     const dolar = data.USDBRL.high
     const euro = data.EURBRL.high
     const bitcoin = data.BTCBRL.high

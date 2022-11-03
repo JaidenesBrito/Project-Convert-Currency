@@ -1,5 +1,5 @@
 
- <a href="https://jaidenesbrito.github.io/Project-convert-currency">Click aqui para ver a Aplicação</a>
+ <a href="https://jaidenesbrito.github.io/Project-Convert-Currency/">Click aqui para ver a Aplicação</a>
 
 <h1>Projeto conversor de moeda</h1>
 

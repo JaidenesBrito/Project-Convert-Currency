@@ -1,11 +1,13 @@
 
+ <a href="https://jaidenesbrito.github.io/Project-convert-currency">Click aqui para ver a Aplicação</a>
+
 <h1>Projeto conversor de moeda</h1>
 
  
  
-<img src="https://github.com/JaidenesBrito/Project-convert-currency/blob/master/img/bitcoin%20project.jpg?raw=true"> <img src="https://github.com/JaidenesBrito/Project-convert-currency/blob/master/img/dolar%201project.jpg?raw=true"> <img src="https://github.com/JaidenesBrito/Project-convert-currency/blob/master/img/europroject.jpg?raw=true">
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/107962435/199825315-71e06d0f-fe37-4131-9323-8960a2d38abf.gif)
 
-<p>Esse conversor de moedas foi projetado para converter 3 tipos de moeda, o € Euro, US$ Dólar e  ₿ Bitcoin</p>
+<p>Esse conversor de moedas foi projetado para converter do real para 3 tipos de moeda, o € Euro, US$ Dólar e  ₿ Bitcoin</p>
 
 <br>
 <br>
@@ -20,5 +22,5 @@
   <br>
   <br>
   
-  <a href="https://jaidenesbrito.github.io/Project-convert-currency">Link da Aplicação</a>
+ 
    
